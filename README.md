@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @SHEHINA-K
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m @SHEHINA-K
 
-<!---
-SHEHINA-K/SHEHINA-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Data Science, Machine Learning, and Generative AI.
+🌱 I’m currently learning advanced applications of AI in healthcare.
+💞️ I’m looking to collaborate on AI-driven projects, especially in medical or educational technology.
+📫 How to reach me: [shehinak2002@gmail.com].
+😄 Pronouns: She/Her
+⚡ Fun fact: I’m a B.Sc. Mathematics graduate who loves solving complex puzzles, both in data and in life!
